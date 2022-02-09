@@ -1,0 +1,52 @@
+
+.info {
+	background: black;
+}
+.margin-125{
+	margin-top: 150px;
+}
+.video-details {
+    color: #fff;
+    padding: 48px 70px 0;
+}
+.video-details {
+    color: #fff;
+    padding: 48px 70px 0;
+}
+.header_brand{
+	display: none;
+}
+  .menu-top-middle{
+    	max-width: 30%;
+    }
+@media only screen and (max-width: 800px) {
+
+    .header_brand{
+    	display: block;
+    }
+    .menu-top-middle{
+    	max-width: 40%;
+    }
+  }
+ .stats ul.details-list li span.detail-header {
+    color: #a7aabb;
+}
+.stats, .stats ul, .stats ul li {
+    color: #fff;
+    font-size: 13px;
+    line-height: 1.7692em;
+}
+.demi {
+    font-weight: 600;
+}
+
+.info
+{
+	height: 100%;
+
+}
+
+
+
+
+
