@@ -1,0 +1,5 @@
+[16-Jun-2021 09:29:27 America/New_York] PHP Notice:  Use of undefined constant ymd - assumed 'ymd' in /home/chazzenfitness/public_html/pages/login.php on line 17
+[16-Jun-2021 09:32:43 America/New_York] PHP Notice:  Use of undefined constant ymd - assumed 'ymd' in /home/chazzenfitness/public_html/pages/login.php on line 17
+[16-Jun-2021 12:44:08 America/New_York] PHP Notice:  Undefined variable: email in /home/chazzenfitness/public_html/pages/trainerlogin.php on line 13
+[16-Jun-2021 13:01:26 America/New_York] PHP Notice:  Use of undefined constant ymd - assumed 'ymd' in /home/chazzenfitness/public_html/pages/login.php on line 17
+[16-Jun-2021 13:06:43 America/New_York] PHP Notice:  Use of undefined constant ymd - assumed 'ymd' in /home/chazzenfitness/public_html/pages/login.php on line 17
